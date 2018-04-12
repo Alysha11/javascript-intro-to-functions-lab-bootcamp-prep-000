@@ -33,6 +33,6 @@ return "YES INDEED!";
 }
 
 function sayHiToGrandma (string) {
-  if (string === string.mixedCase())
+  if (string === "I love you, Grandma")
   return "I love you, too.";
 }
