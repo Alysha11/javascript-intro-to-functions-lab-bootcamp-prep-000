@@ -1,4 +1,8 @@
-function shout (string) {
+
+
+
+
+function loghout (string) {
   return string.toUpperCase()
 }
 function whisper (string) {
