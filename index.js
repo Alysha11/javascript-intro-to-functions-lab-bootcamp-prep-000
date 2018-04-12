@@ -2,7 +2,7 @@
 
 
 
-function logshout (string) {
+function shout (string) {
   return string.toUpperCase()
 }
 function whisper (string) {
